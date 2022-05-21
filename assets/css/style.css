@@ -1,0 +1,104 @@
+/*ESTILOS DEL INDEX*/
+
+body {
+    background-color: #FFFFFF;
+}
+
+header nav, form {
+    background-color: #28A745;
+}
+
+.card {
+    border: 1px solid #DDDDDD;
+}
+
+h5 {
+    color: #212529;
+}
+
+p {
+    color: #707070;
+}
+
+hr {
+    color: #707070A0;
+}
+
+h6 {
+    text-align: center;
+    color: #707070;
+}
+
+.boton {
+    margin-left: 40%;
+}
+
+/* ul {
+    margin-left: 1rem;
+} */
+
+/* form {
+    background-color: #28A745;
+} */
+
+
+
+/* .card-group {
+    margin: 40%;
+} */
+
+/* #navbarSupportedContent {
+    float: right;
+} */
+
+/* h4 {
+    padding-bottom: 0;
+    border-bottom: 0;
+    margin-bottom: 0;
+    
+} */
+
+/* .form {
+    border: solid black 2px;
+    padding: 30px 15px;
+    margin: 10px auto;
+    width: 90%;
+
+}
+
+form {
+    padding: 20px 15px;
+}
+
+form > div {
+    padding-bottom: 0px ;
+    margin-bottom: 0px;
+}
+
+.form input {
+    width: 95%;
+    margin: auto;    
+}
+
+#name .form-text{
+    padding-bottom: 0px ;
+} */
+
+/* form #emailHelp {
+    padding-bottom: 0%;
+} */
+
+/* .form-control {
+    padding-bottom: 0px ;
+    margin-bottom: 0px;
+} */
+/* 
+.mb-3 {
+    padding-bottom: 0px ;
+    margin-bottom: 0px;
+} */
+
+/* button {
+    padding-top: 0px ;
+    margin-top: 0px;
+} */
